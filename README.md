@@ -32,6 +32,7 @@ Some documents are in Spanish as they were originally produced during the projec
 This repository serves as evidence of my early involvement in aerospace engineering environments and my growing interest in complex technological systems.
 
 ## 👤 Author
-Developed as part of my academic and professional formation at UNAM
+Developed as part of my academic and professional formation at AEM
+
 <img width="2048" height="2048" alt="83297234_2954394771289973_7852575671774609408_n" src="https://github.com/user-attachments/assets/51a747a4-271d-47a3-96cc-e7741c61a07e" />
 

@@ -10,7 +10,7 @@ Mexican Space Agency (AEM)
 Social Service Intern
 
 ## 🛠️ Responsibilities
-- 📄 Development of technical documentation  
+- 📄 Development of technical documentation using Jira and Confluence  
 - 🛰️ Support in aerospace-related projects  
 - 🔍 Research and analysis of engineering topics  
 
